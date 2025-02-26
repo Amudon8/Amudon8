@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amudon
 - 👀 I’m interested in small things
-- 🌱 I’m currently learning PIC simulation using python
-- 💞️ I’m looking to collaborate on this project of mine for my dissertation
+- 🌱 I’m currently working on Vlasov Poisson systems
 - 📫 How to reach me: this is my email, chingangbam.amudon@gmail.com
 
 <!---
